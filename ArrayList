@@ -1,0 +1,28 @@
+
+import java.util.ArrayList;
+
+public class Kannu {
+
+	
+	public static void main(String[] args) {
+
+	ArrayList al = new ArrayList();
+	al.add("Kapil");
+	al.add("ABC");
+	al.add("Kps");
+	al.add("Yes");
+	al.add("Sarna");
+	
+	int size = al.size();
+	
+	for (int i =0; i<size; i++) {
+		
+		System.out.println(al.get(i));
+	}
+	
+
+		
+		
+		}
+}
+	
