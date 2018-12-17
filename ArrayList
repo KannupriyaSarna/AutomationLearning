@@ -12,6 +12,7 @@ public class Kannu {
 	al.add("Kps");
 	al.add("Yes");
 	al.add("Sarna");
+     al.add("This is life");
 	
 	int size = al.size();
 	
